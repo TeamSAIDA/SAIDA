@@ -3,10 +3,10 @@
 <div>
   <h3># SAIDA Bot?</h3>
   <h5><a href ="https://sscaitournament.com/index.php?action=botDetails&bot=SAIDA">SSCAIT ELO Rank Top 3 & Total Win Rate 90% (2018-10-24)</a></h5>
-  <h5>AIIDE2018 Competition Enterance</h5>
-  <p></p>
+  <h5>AIIDE2018 Competition Participant</h5>
+  <p>SAIDA Bot is made to play like human. He changes his strategy according to enemy's. He also catches perfect rush timing by using information he collected. To collect data, he uses scout units and scan.</p>
   <p>You can watch SAIDA's real time play at <a href = "https://www.twitch.tv/sscait">here(SSCAIT).</a></p>
-  <p>SAIDA(Samsung AI & Data Analytics) is developed by Samsung SDS. SAIDA is based on UAlberta Bot & BWEM. BWAPI : 4.1.2</p>
+  <p>Based on UAlberta Bot and Fully restructured. BWEM. BWAPI : 4.1.2</p>
 </div>
 
 <div>
