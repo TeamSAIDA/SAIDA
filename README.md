@@ -38,14 +38,8 @@
 <br>
 <br>
 <div>
-  <h3># Our studies</h3>  
-</div>
-<br>
-<br>
-<div>
   <h3># How to Contact us?</h3>
   <ul>
-    <li>Tel : +82-10-2568-0450  </li>
     <li>E-mail : team.saida@gmail.com / charlie.bae@samsung.com </li>
   </ul>
   
