@@ -11,14 +11,14 @@
 
 <div>
   <h3># History of SAIDA</h3>
-  <p>
-    There is an Algorithm Contest in Samsung SDS every year. It's a developer's festival and last year('17), the subject was "Starcraft". Lots of developers participated in this festival and the contest was successful. After the contest, some developers who had a good grade in the contest gathered to make worldwide champion bot. They proposed this idea to the company and fortunately it is accepted. That is a start of 'SAIDA'. It started in January, 2018 with 8 developers.
+  <img width="40%" src ="https://user-images.githubusercontent.com/34500497/47407577-e4e3ca00-d796-11e8-975a-de47858aa955.JPG">
+  <p>There is an Algorithm Contest in Samsung SDS every year. It's a developer's festival and last year('17), the subject was "Starcraft". Lots of developers participated in this festival and the contest was successful. After the contest, some developers who had a good grade in the contest gathered to make worldwide champion bot. They proposed this idea to the company and fortunately it is accepted. That is a start of 'SAIDA'. It started in January, 2018 with 8 developers.
   </p>
 </div>
 
 <div>
   <h3># Who made SAIDA?</h3>
-  <img width="60%" src="https://user-images.githubusercontent.com/34500497/47363581-16668200-d712-11e8-9f77-2b8fb0877e3e.jpg">
+  <img width="70%" src="https://user-images.githubusercontent.com/34500497/47363581-16668200-d712-11e8-9f77-2b8fb0877e3e.jpg">
   <ul>
     <li>Iljoo Yoon</li>
     <li>Daehun Jun</li>
