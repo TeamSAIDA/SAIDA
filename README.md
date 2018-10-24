@@ -40,7 +40,7 @@
 <div>
   <h3># How to Contact us?</h3>
   <ul>
-    <li>E-mail : team.saida@gmail.com / charlie.bae@samsung.com </li>
+    <li>E-mail : team.saida@gmail.com</li>
   </ul>
   
 </div>
