@@ -4,7 +4,7 @@
   <h3># SAIDA Bot?</h3>
   <h5><a href ="https://sscaitournament.com/index.php?action=botDetails&bot=SAIDA">SSCAIT ELO Rank Top 3 & Total Win Rate 90% (2018-10-24)</a></h5>
   <h5>AIIDE2018 Competition Participant</h5>
-  <p>SAIDA Bot is made to play like human. He changes his strategy according to enemy's. He also catches perfect rush timing by using information he collected. To collect data, he uses scout units and scan.</p>
+  <p>SAIDA Bot is made to play like a human. He changes his strategy according to enemy's. He also catches perfect rush timing by using information he collected. To collect data, he uses scout units and scan.</p>
   <p>You can watch SAIDA's real time play at <a href = "https://www.twitch.tv/sscait">here(SSCAIT).</a></p>
   <p>Based on UAlberta Bot and Fully restructured. BWEM. BWAPI : 4.1.2</p>
 </div>
@@ -12,7 +12,7 @@
 <br>
 <div>
   <h3># History of SAIDA</h3>  
-  <p>There is an Algorithm Contest in Samsung SDS every year. It's a developer's festival and last year('17), the subject was "Starcraft". Lots of developers participated in this festival and the contest was successful. After the contest, some developers who had a good grade in the contest gathered to make worldwide champion bot. They proposed this idea to the company and fortunately it is accepted. That is a start of 'SAIDA'. It started in January, 2018 with 8 developers.
+  <p>There is an Algorithm Contest in Samsung SDS every year. It's a developer's festival and last year('17), the subject was "Starcraft". Lots of developers participated in this festival and the contest was successful. After the contest, some developers who had a good grade in the contest gathered to make worldwide champion bot. They proposed this idea to the company and fortunately it is accepted. That is the start of 'SAIDA'. It started in January, 2018 with 8 developers.
   </p>
   <div>    
     <img width="60%" src ="https://user-images.githubusercontent.com/34500497/47407861-f24d8400-d797-11e8-81c2-f09964afae36.png"/><br>
