@@ -2,7 +2,7 @@
 
 <div>
   <h3># SAIDA Bot?</h3>
-  <h5><a href ="https://sscaitournament.com/index.php?action=botDetails&bot=SAIDA">SSCAIT ELO Rank Top 3 & Total Win Rate 90% (2018-10-24)</a></h5>
+  <h5><a href ="https://sscaitournament.com/index.php?action=botDetails&bot=SAIDA">SSCAIT ELO Rank Top 1 (since 2018-10-27)</a></h5>
   <h5>AIIDE2018 Competition Participant</h5>
   <p>SAIDA Bot is made to play like a human. He changes his strategy according to enemy's. He also catches perfect rush timing by using information he collected. To collect data, he uses scout units and scan.</p>
   <p>You can watch SAIDA's real time play at <a href = "https://www.twitch.tv/sscait">here(SSCAIT).</a></p>
