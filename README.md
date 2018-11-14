@@ -1,8 +1,8 @@
 <h2>SAIDA</h2>
 <div>
- <h3># Team SAIDA</h3>
+ <h3># Vision of SAIDA</h3>
  <p>
-   SAIDA is a venture team of Samsung SDS and its goal is to develop the first starcraft AI which can defeat a professional human starcraft player.</p>
+   Our vision is to develop the first starcraft AI which can defeat a professional human starcraft player so as to improve our AI technology.</p>
 </div>
 <br>
 </br>
