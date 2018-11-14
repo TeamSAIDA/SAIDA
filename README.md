@@ -1,5 +1,11 @@
 <h2>SAIDA</h2>
-
+<div>
+ <h3># Team SAIDA</h3>
+ <p>
+   SAIDA is a venture team of Samsung SDS and its goal is to develop the first starcraft AI to defeat a professional human player.</p>
+</div>
+<br>
+</br>
 <div>
   <h3># SAIDA Bot?</h3>
   <h5><a href ="https://sscaitournament.com/index.php?action=botDetails&bot=SAIDA">SSCAIT ELO Rank Top 1 (since 2018-10-27)</a></h5>
