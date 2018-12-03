@@ -44,6 +44,14 @@
 <br>
 <br>
 <div>
+  <h3># Our Studies</h3>
+  <ul>
+    <li><a href="https://arxiv.org/abs/1811.12627">Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders</a></li>
+  </ul>
+</div>
+<br>
+<br>
+<div>
   <h3># How to Contact us?</h3>
   <ul>
     <li>E-mail : team.saida@gmail.com</li>
