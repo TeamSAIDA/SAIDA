@@ -28,6 +28,14 @@
 <br>
 <br>
 <div>
+  <h3># Our Studies</h3>
+  <ul>
+    <li><a href="https://arxiv.org/abs/1811.12627">Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders</a></li>
+  </ul>
+</div>
+<br>
+<br>
+<div>
   <h3># Who made SAIDA?</h3>
   <img width="70%" src="https://user-images.githubusercontent.com/34500497/47363581-16668200-d712-11e8-9f77-2b8fb0877e3e.jpg">
   <ul>
@@ -39,14 +47,6 @@
     <li>Hyunjae Lee</li>
     <li>Yonghyun Jeong</li>
     <li>Uk Jo</li>
-  </ul>
-</div>
-<br>
-<br>
-<div>
-  <h3># Our Studies</h3>
-  <ul>
-    <li><a href="https://arxiv.org/abs/1811.12627">Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders</a></li>
   </ul>
 </div>
 <br>
