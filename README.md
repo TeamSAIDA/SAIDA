@@ -32,6 +32,9 @@
   <ul>
     <li><a href="https://arxiv.org/abs/1811.12627">Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders</a></li>
   </ul>
+  <ul>
+    <li><a href="https://github.com/TeamSAIDA/DefogGAN">DefogGAN: Predicting Hidden Information in the StarCraft Fog of War with Generative Adversarial Nets (AAAI-2020 Accept-Oral)</a></li>
+  </ul>
 </div>
 <br>
 <br>
